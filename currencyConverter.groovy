@@ -6,7 +6,8 @@ println "OK, now I know enough.";
 #DA - David's edit
 boolean finished = false;
 while (!finished) {
-    println "";
+    println "WWWHWHWHWHW";
+	
     println "What would you like to do?";
     println "   1 - Exchange pounds into euro";
     println "   2 - Exchange euro into pounds";
