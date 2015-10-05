@@ -5,6 +5,7 @@ double poundOverEuroRatio = Double.parseDouble(System.console().readLine());
 println "OK, now I know enough.";
 #DA - David's edit
 boolean finished = false;
+#DA - another one
 while (!finished) {
     println "";
     println "What would you like to do?";
