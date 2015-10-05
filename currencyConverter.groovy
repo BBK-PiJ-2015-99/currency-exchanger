@@ -7,7 +7,6 @@ println "OK, now I know enough.";
 boolean finished = false;
 #DA - another one
 while (!finished) {
-#DA - not done yet
     println "";
     println "What would you like to do?";
     println "   1 - Exchange pounds into euro";
